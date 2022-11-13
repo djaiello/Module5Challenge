@@ -1,44 +1,32 @@
-# Module5Challenge
-
-
-
-The analysis should contain the following:
+# Module 5 Challenge: Pyber Ride Sharing Analysis
 
 ## Overview of the analysis: 
-Explain the purpose of the new analysis.
 
-        - V. Isualize has given you and Omar a brand-new assignment. Using your Python skills and knowledge of Pandas, you’ll create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, you’ll create a multiple-line graph that shows the total weekly fares for each city type. Finally, you’ll submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
+    - The purpose of this project is to extend the prior analysis by creating a summary table of the ride-sharing data by city type and create a multiple-line graph that shows the total weekly fares for each city type. Using these deliverables, a written report will be provided that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results: 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+
+    ### Table 1: PyBer Summary Statistics by City Type, 1/12019-5/8/2019
+
+
+    - As shown in Table 1, Total Rides, Total Drivers and Total Fares showed the same pattern between city types with Urban cities having the most, followed by suburban cities and finally rural cities, in similar proportions.  Urban cites more than doubled (2x) suburburban cities in both rides and fares collected, and more than quadrupled (4x) them in total drivers.  Suburban cities had four to five times (4-5x) the rides and fares collected over rural cities, and over six times (6x) the number of drivers.
+
+    - The average fares per ride and average fare per driver showed the opposide, while more subtle pattern to the totals. with rural cities collecting the most per ride and driver, followed by suburban cities, and finally urban cities.  
+
+
+
+    ### Figure 1: Total Fare by City Type, 1/1/2019-4/28/2019
+
+
+    - As displayed in Figure 1, the total fares for city types showed a very clear pattern and hierarchy with urban cities at the top, subuirban cities in the middle and rural cities at the bottom.  While the amounts over time did fluctuate, the changes never changed the hierarchy order and the patterns appeared stable over the period.
+
 
 ## Summary: 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
+    Based upon the results above, we are providing the following business recommendations to address disparities amount city types for PyBer Ride Share:
 
-# Deliverable 3 Requirements
+        It is recommended that PyBer consider a hiring initiative to provide a larger driver pool to rural and suburban areas.  While it is unknown the full impact of money lost due to limited drivers in both city types, an increase in drivers would quickly establish whether those economies are dealing with a driver supply issue.
 
-## Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
+        Additionally it is recommended that PyBer consider raising the fare rates proportionally to the demand for rides.  The discrepancy between city types in average fare per ride tell us the the consumers may be willing to pay more where the demand is greater.  While further analysis needs to be taken to determine that the true competition is in each area, slowly raising prices in targeted areas and analyzing the returns will quickly let you know whether the market can bear it.
 
-    - There is a title, and there are multiple sections. (2 pt)
-
-    - Each section has a heading and subheading. (2 pt)
-
-    - Links to images are working and displayed correctly. (2 pt)
-
-
-## Analysis (14 points)
-The written analysis has the following:
-
-    1. Overview of the analysis:
-
-        - The purpose of the new analysis is well defined. (3 pt)
-
-    2. Results:
-
-        - There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-
-## Summary:
-
-        - There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+        Finally, it is recommended that PyBer initiate a market analysis in each area to determine the size of the market for ride sharing services, the competition that PyBer is facing in each market and the PyBer's share of that market.  This project looked only at PyBer for a 4 month period, but did nothing to put there service in relation to the available services and demand for those services in general.
