@@ -16,7 +16,7 @@
 
 
     ### Figure 1: Total Fare by City Type, 1/1/2019-4/28/2019
-
+![image](https://user-images.githubusercontent.com/114360511/201545923-784b83b6-4c40-4772-a781-ed27694eca7f.png)
 
     - As displayed in Figure 1, the total fares for city types showed a very clear pattern and hierarchy with urban cities at the top, subuirban cities in the middle and rural cities at the bottom.  While the amounts over time did fluctuate, the changes never changed the hierarchy order and the patterns appeared stable over the period.
 
