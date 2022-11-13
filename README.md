@@ -6,7 +6,7 @@
 
 ## Results: 
 
-    ### Table 1: PyBer Summary Statistics by City Type, 1/12019-5/8/2019
+   ### Table 1: PyBer Summary Statistics by City Type, 1/12019-5/8/2019
 
 
     - As shown in Table 1, Total Rides, Total Drivers and Total Fares showed the same pattern between city types with Urban cities having the most, followed by suburban cities and finally rural cities, in similar proportions.  Urban cites more than doubled (2x) suburburban cities in both rides and fares collected, and more than quadrupled (4x) them in total drivers.  Suburban cities had four to five times (4-5x) the rides and fares collected over rural cities, and over six times (6x) the number of drivers.
@@ -15,7 +15,7 @@
 
 
 
-    ### Figure 1: Total Fare by City Type, 1/1/2019-4/28/2019
+   ### Figure 1: Total Fare by City Type, 1/1/2019-4/28/2019
 ![image](https://user-images.githubusercontent.com/114360511/201545923-784b83b6-4c40-4772-a781-ed27694eca7f.png)
 
     - As displayed in Figure 1, the total fares for city types showed a very clear pattern and hierarchy with urban cities at the top, subuirban cities in the middle and rural cities at the bottom.  While the amounts over time did fluctuate, the changes never changed the hierarchy order and the patterns appeared stable over the period.
